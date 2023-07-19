@@ -6,7 +6,7 @@ class CONF {
     public $DEMO_VERSION = false;
 
     /* Data configuration for database */
-    public $DB_SERVER   = "blaxwohrknb10tbsqojn-mysql.services.clever-cloud.com";
+    public $DB_HOST   = "blaxwohrknb10tbsqojn-mysql.services.clever-cloud.com";
     public $DB_USER     = "ulpluwz2knunxyb4";
     public $DB_PASSWORD = "6Tt4vWoVy9KCiHukG38U";
     public $DB_NAME     = "blaxwohrknb10tbsqojn";
